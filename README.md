@@ -9,4 +9,4 @@ I make tools I use every day, measure them, and publish the numbers, including t
 | [verbatim-quote](https://github.com/ninondev/verbatim-quote) | Checks that a quote really appears in its source, character for character. | Rejects a changed number that a 0.96 similarity score accepts. |
 | [SpeakFB](https://github.com/ninondev/speakfb) | A speaking report for English recordings: pace, long pauses, fillers. | Transcription runs on your Mac. |
 
-More are on the way this month. Each repository has a short CLA, so I can keep offering the code under other terms later.
+More are on the way this month. Developer tools are MIT. Apps are GPL-3.0 with a short CLA, so I can keep offering them under other terms later.
