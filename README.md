@@ -11,6 +11,8 @@ I make tools I use every day, measure them, and publish the numbers, including t
 | [callbluff](https://github.com/ninondev/callbluff) | Ten hooks that make Claude Code and Codex show evidence before they say "done". | I audited it on my own sessions: [5 of 84 fires](https://github.com/ninondev/callbluff/tree/main/hook-audit) caught a real problem. |
 | [SpeakFB](https://github.com/ninondev/speakfb) | A speaking report for English recordings: pace, long pauses, fillers. | Transcription runs on your Mac. |
 
+I also trained a small model (149M parameters) to mark essays for an English exam. On 84 test essays marked by people, its marks were within one band of theirs 88% of the time, close to my 94% target but under it. I've since deleted it.
+
 Developer tools are MIT. Apps are GPL-3.0 with a short CLA, so I can keep offering them under other terms later.
 
 To work together, email me at hola@ninon.dev.
