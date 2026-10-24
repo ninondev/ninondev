@@ -4,8 +4,6 @@ I like making apps and small tools, mostly things I want to use myself. Some are
 
 I also like testing what I make. When I have results, I share them, even if they're not as good as I hoped.
 
-Here are some things I've made:
-
 - [Dayside](https://github.com/ninondev/Dayside) is a world clock for the Mac menu bar. Every city has its own row with the color of its sky right now. The release build has no network permission.
 
 - [stove](https://github.com/ninondev/stove) is for kitchen ticket printing and a take-a-number queue. I took these parts from a restaurant ordering system that's been in regular use since August 2026.
