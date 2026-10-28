@@ -2,7 +2,7 @@ I build apps and small tools, mostly because I want to use them myself. Coding a
 
 - [Dayside](https://github.com/ninondev/Dayside) is a world clock for the Mac menu bar. Each city gets its own row, colored to match the sky there at that moment. Version 1.0.1 is notarized, supports 16 languages, and has no network-access entitlement in its release build.
 
-- [stove](https://github.com/ninondev/stove) prints kitchen tickets and manages a numbered order queue. I took this code from a POS system (Zaotai) I made for a restaurant, where hired staff used the system regularly from August to early October 2026. You can try the POS in a [web demo](https://ninondev-stove-demo.hf.space/). The interface is in Chinese.
+- [stove](https://github.com/ninondev/stove) prints kitchen tickets and manages a numbered order queue. I took this code from a POS system (Zaotai) I made for a restaurant, where hired staff used the system regularly from August to early October 2026.
 
 - [dryport](https://github.com/ninondev/dryport) is an experiment in running Windows-only games on Apple silicon Macs. For Unity games, it translates D3D11 shaders into Metal instead of relying on Wine. *A Space for the Unbound* passed all five of my checks on an M5 Mac.
 
